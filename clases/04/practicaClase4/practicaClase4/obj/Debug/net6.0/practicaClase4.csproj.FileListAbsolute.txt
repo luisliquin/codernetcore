@@ -1,0 +1,15 @@
+C:\Users\Luis Liquin\Desktop\proyectos\coderNetcore\clases\04\practicaClase4\practicaClase4\bin\Debug\net6.0\practicaClase4.exe
+C:\Users\Luis Liquin\Desktop\proyectos\coderNetcore\clases\04\practicaClase4\practicaClase4\bin\Debug\net6.0\practicaClase4.deps.json
+C:\Users\Luis Liquin\Desktop\proyectos\coderNetcore\clases\04\practicaClase4\practicaClase4\bin\Debug\net6.0\practicaClase4.runtimeconfig.json
+C:\Users\Luis Liquin\Desktop\proyectos\coderNetcore\clases\04\practicaClase4\practicaClase4\bin\Debug\net6.0\practicaClase4.dll
+C:\Users\Luis Liquin\Desktop\proyectos\coderNetcore\clases\04\practicaClase4\practicaClase4\bin\Debug\net6.0\practicaClase4.pdb
+C:\Users\Luis Liquin\Desktop\proyectos\coderNetcore\clases\04\practicaClase4\practicaClase4\obj\Debug\net6.0\practicaClase4.csproj.AssemblyReference.cache
+C:\Users\Luis Liquin\Desktop\proyectos\coderNetcore\clases\04\practicaClase4\practicaClase4\obj\Debug\net6.0\practicaClase4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Liquin\Desktop\proyectos\coderNetcore\clases\04\practicaClase4\practicaClase4\obj\Debug\net6.0\practicaClase4.AssemblyInfoInputs.cache
+C:\Users\Luis Liquin\Desktop\proyectos\coderNetcore\clases\04\practicaClase4\practicaClase4\obj\Debug\net6.0\practicaClase4.AssemblyInfo.cs
+C:\Users\Luis Liquin\Desktop\proyectos\coderNetcore\clases\04\practicaClase4\practicaClase4\obj\Debug\net6.0\practicaClase4.csproj.CoreCompileInputs.cache
+C:\Users\Luis Liquin\Desktop\proyectos\coderNetcore\clases\04\practicaClase4\practicaClase4\obj\Debug\net6.0\practicaClase4.dll
+C:\Users\Luis Liquin\Desktop\proyectos\coderNetcore\clases\04\practicaClase4\practicaClase4\obj\Debug\net6.0\refint\practicaClase4.dll
+C:\Users\Luis Liquin\Desktop\proyectos\coderNetcore\clases\04\practicaClase4\practicaClase4\obj\Debug\net6.0\practicaClase4.pdb
+C:\Users\Luis Liquin\Desktop\proyectos\coderNetcore\clases\04\practicaClase4\practicaClase4\obj\Debug\net6.0\practicaClase4.genruntimeconfig.cache
+C:\Users\Luis Liquin\Desktop\proyectos\coderNetcore\clases\04\practicaClase4\practicaClase4\obj\Debug\net6.0\ref\practicaClase4.dll
