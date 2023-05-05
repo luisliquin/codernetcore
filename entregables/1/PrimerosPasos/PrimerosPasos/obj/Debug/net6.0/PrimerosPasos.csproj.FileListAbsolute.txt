@@ -1,0 +1,15 @@
+C:\Users\Luis Liquin\Desktop\proyectos\coderNetcore\entregables\1\PrimerosPasos\PrimerosPasos\bin\Debug\net6.0\PrimerosPasos.exe
+C:\Users\Luis Liquin\Desktop\proyectos\coderNetcore\entregables\1\PrimerosPasos\PrimerosPasos\bin\Debug\net6.0\PrimerosPasos.deps.json
+C:\Users\Luis Liquin\Desktop\proyectos\coderNetcore\entregables\1\PrimerosPasos\PrimerosPasos\bin\Debug\net6.0\PrimerosPasos.runtimeconfig.json
+C:\Users\Luis Liquin\Desktop\proyectos\coderNetcore\entregables\1\PrimerosPasos\PrimerosPasos\bin\Debug\net6.0\PrimerosPasos.dll
+C:\Users\Luis Liquin\Desktop\proyectos\coderNetcore\entregables\1\PrimerosPasos\PrimerosPasos\bin\Debug\net6.0\PrimerosPasos.pdb
+C:\Users\Luis Liquin\Desktop\proyectos\coderNetcore\entregables\1\PrimerosPasos\PrimerosPasos\obj\Debug\net6.0\PrimerosPasos.csproj.AssemblyReference.cache
+C:\Users\Luis Liquin\Desktop\proyectos\coderNetcore\entregables\1\PrimerosPasos\PrimerosPasos\obj\Debug\net6.0\PrimerosPasos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Liquin\Desktop\proyectos\coderNetcore\entregables\1\PrimerosPasos\PrimerosPasos\obj\Debug\net6.0\PrimerosPasos.AssemblyInfoInputs.cache
+C:\Users\Luis Liquin\Desktop\proyectos\coderNetcore\entregables\1\PrimerosPasos\PrimerosPasos\obj\Debug\net6.0\PrimerosPasos.AssemblyInfo.cs
+C:\Users\Luis Liquin\Desktop\proyectos\coderNetcore\entregables\1\PrimerosPasos\PrimerosPasos\obj\Debug\net6.0\PrimerosPasos.csproj.CoreCompileInputs.cache
+C:\Users\Luis Liquin\Desktop\proyectos\coderNetcore\entregables\1\PrimerosPasos\PrimerosPasos\obj\Debug\net6.0\PrimerosPasos.dll
+C:\Users\Luis Liquin\Desktop\proyectos\coderNetcore\entregables\1\PrimerosPasos\PrimerosPasos\obj\Debug\net6.0\refint\PrimerosPasos.dll
+C:\Users\Luis Liquin\Desktop\proyectos\coderNetcore\entregables\1\PrimerosPasos\PrimerosPasos\obj\Debug\net6.0\PrimerosPasos.pdb
+C:\Users\Luis Liquin\Desktop\proyectos\coderNetcore\entregables\1\PrimerosPasos\PrimerosPasos\obj\Debug\net6.0\PrimerosPasos.genruntimeconfig.cache
+C:\Users\Luis Liquin\Desktop\proyectos\coderNetcore\entregables\1\PrimerosPasos\PrimerosPasos\obj\Debug\net6.0\ref\PrimerosPasos.dll
